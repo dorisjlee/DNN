@@ -1,0 +1,21 @@
+DNN Software
+- Caffe 
+- Theano : symbolic programming
+- PyBrain : Python-Based Reinforcement Learning, Artificial Intelligence and Neural Network Library
+- 
+
+Image processing
+ - Convolution (Convolutional Neural Networks)
+ - dimensionality reduction
+ - ...?
+
+** Feature Engineering 
+
+
+Questions
+- What exactly are we looking at? What kind of images and what are we trying to find?
+	- does what we are looking for require DNN ? or traditional classifcation ML problem is okay?? 
+		- depend on training set data size? what stuff looks like.
+	- since DNN blackbox
+- Why not use traditional ML classification (k-means...etc)?
+- 
